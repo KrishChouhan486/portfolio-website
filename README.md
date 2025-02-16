@@ -124,10 +124,9 @@ frontend-clone/
 ## 🚀 Deployment
 Deploy using **Vercel, Netlify, or GitHub Pages**.
 
-[Example](https://krish-chouhan.netlify.app/) (netlify):
+
 ```sh
-npm install -g vercel
-vercel
+[Example](https://krish-chouhan.netlify.app/) (netlify):
 ```
 
 ---
