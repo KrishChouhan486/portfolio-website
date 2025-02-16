@@ -33,7 +33,7 @@ npm install
 ```sh
 npm run dev
 ```
-The website will be available at `http://localhost:5173/` (if using Vite) or `http://localhost:3000/` (if using Create React App).
+The website will be available at `https://meek-valkyrie-ed310a.netlify.app/` (if using Vite) or `https://meek-valkyrie-ed310a.netlify.app/` (if using Create React App).
 
 ---
 
@@ -122,7 +122,7 @@ frontend-clone/
 ## 🚀 Deployment
 Deploy using **Vercel, Netlify, or GitHub Pages**.
 
-Example (Vercel):
+[Example](https://meek-valkyrie-ed310a.netlify.app/) (netlify):
 ```sh
 npm install -g vercel
 vercel
@@ -145,7 +145,7 @@ This project is **MIT Licensed**.
 ---
 
 ## 📞 Contact
-For any queries, contact me at **your-email@example.com** or connect on **[LinkedIn](https://linkedin.com/in/your-profile)**.
+For any queries, contact me at **krishchouhan468@gmail.com** or connect on **[LinkedIn](https://www.linkedin.com/in/krishchouhan/)**.
 
 ---
 
