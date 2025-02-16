@@ -3,18 +3,18 @@ const Page7 = () => {
     return (
         <div className="h-screen bg-white p-5">
             <div className="relative h-full  bg-black rounded-[30px] overflow-hidden  ">
-            <img
-  className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 h-full w-[110vh] filter  contrast-150"
+                <img
+                    className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 h-full w-[120vh] filter  contrast-150"
 
-  src="/src/images/img1.png"
-  alt=""
-/>
+                    src="https://static.wixstatic.com/media/f1c650_3b7371d053654d518944cf2e0bac656e~mv2.jpg/v1/fill/w_1438,h_874,fp_0.32_0.41,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ELEGANT.jpg"
+                    alt=""
+                />
 
 
 
                 <img
                     className="absolute inset-y-[55vh] right-44 h-[350px ] w-[350px] z-10 "
-                    src="/src/images/img2.png"
+                    src="https://static.wixstatic.com/media/f1c650_bbfc02bc3d9e46a99a60a2ae2857e656~mv2.png/v1/fill/w_322,h_233,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/I%20PAD%20(3).png"
                     alt=""
                 />
                 <img

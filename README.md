@@ -35,7 +35,7 @@ npm install
 ```sh
 npm run dev
 ```
-The website will be available at `https://meek-valkyrie-ed310a.netlify.app/` (if using Vite) or `https://meek-valkyrie-ed310a.netlify.app/` (if using Create React App).
+The website will be available at `https://krish-chouhan.netlify.app/` (if using Vite) or `https://krish-chouhan.netlify.app/` (if using Create React App).
 
 ---
 
@@ -124,7 +124,7 @@ frontend-clone/
 ## 🚀 Deployment
 Deploy using **Vercel, Netlify, or GitHub Pages**.
 
-[Example](https://meek-valkyrie-ed310a.netlify.app/) (netlify):
+[Example](https://krish-chouhan.netlify.app/) (netlify):
 ```sh
 npm install -g vercel
 vercel
