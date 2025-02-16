@@ -6,8 +6,10 @@ This is a frontend website built using **React, Tailwind CSS, and GSAP** for smo
 - Fully responsive design with **Tailwind CSS**
 - Smooth animations using **GSAP**
 - Interactive UI elements
-- Optimized for performance
-![image alt] (https://github.com/KrishChouhan486/portfolio-website/blob/main/Screenshot%202025-02-16%20154332.png)
+
+Optimized for performance  
+![image alt](https://raw.githubusercontent.com/KrishChouhan486/portfolio-website/main/Screenshot%202025-02-16%20154332.png)
+
 ## 📌 Tech Stack
 - **React.js** (Frontend framework)
 - **Tailwind CSS** (Styling)
