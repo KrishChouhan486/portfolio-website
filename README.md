@@ -126,7 +126,7 @@ Deploy using **Vercel, Netlify, or GitHub Pages**.
 
 
 ```sh
-[Example](https://krish-chouhan.netlify.app/) (netlify):
+https://krish-chouhan.netlify.app/
 ```
 
 ---
